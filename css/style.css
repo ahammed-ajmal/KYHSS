@@ -77,6 +77,13 @@
 
 
 /*** Navbar ***/
+.kyhss-logo {
+    width: 60px;
+    height: auto;
+
+}
+
+
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
